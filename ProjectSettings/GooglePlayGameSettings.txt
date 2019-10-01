@@ -1,0 +1,9 @@
+lastUpgrade=00964
+proj.pluginVersion=0.9.64
+proj.AppId=857016374046
+and.BundleId=com.NoomankGames.RunnerCube
+proj.classDir=Assets
+proj.ConstantsClassName=GPS
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--+app_id+--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e857016374046%3c%2fstring%3e%0d%0a++%3c%21--+package_name+--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.NoomankGames.RunnerCube%3c%2fstring%3e%0d%0a++%3c%21--+leaderboard+Best+Long+Distance+--%3e%0d%0a++%3cstring+name%3d%22leaderboard_best_long_distance%22+translatable%3d%22false%22%3eCgkInqag0fgYEAIQAQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=857016374046-olvudk0g531hunjj37fm8td7s4dejohf.apps.googleusercontent.com
+android.SetupDone=true
